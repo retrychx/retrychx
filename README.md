@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/retrychx/retrychx@main/assets/header.svg" width="100%" alt="retrychx — terminal"/>
+  <img src="https://cdn.jsdelivr.net/gh/retrychx/retrychx/assets/header.svg" width="100%" alt="retrychx — terminal"/>
 </p>
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
