@@ -26,7 +26,7 @@
 <h2 align="center"><img src="https://api.iconify.design/feather/code.svg?color=%237dcfff" width="18" alt=""/>&nbsp; TECH STACK</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/retrychx/retrychx/assets/techstack.svg" width="100%" alt="tech stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/retrychx/retrychx/assets/stack.svg" width="100%" alt="tech stack"/>
 </p>
 
 <!-- ═══════════════ PRIVATE PROJECTS ═══════════════ -->
