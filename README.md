@@ -21,20 +21,19 @@
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 <h2 style="color:#7dcfff;margin-top:44px;letter-spacing:1px;"><img src="https://api.iconify.design/feather/bar-chart-2.svg?color=%237dcfff" width="18" style="vertical-align:-2px;" alt=""/>&nbsp; GITHUB STATS</h2>
 <p align="center" style="margin-top:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=retrychx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="100%" style="max-width:430px;" alt="GitHub stats"/>
+  <img src="https://img.shields.io/github/followers/retrychx?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=bb9af7" alt="followers"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=retrychx&style=for-the-badge&color=bb9af7" alt="profile views"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=retrychx&theme=tokyonight&hide_border=true" width="100%" style="max-width:430px;" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrychx&layout=donut&theme=tokyonight&hide_border=true" width="100%" style="max-width:360px;" alt="top languages"/>
 </p>
 
 <!-- ═══════════════ CONTRIBUTION HEATMAP ═══════════════ -->
 <h2 style="color:#7dcfff;margin-top:44px;letter-spacing:1px;"><img src="https://api.iconify.design/feather/activity.svg?color=%237dcfff" width="18" style="vertical-align:-2px;" alt=""/>&nbsp; CONTRIBUTION HEATMAP</h2>
 <div style="margin-top:8px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retrychx&theme=tokyonight&hide_border=true&area=true&radius=8" width="100%" alt="contribution activity graph"/>
-  <img src="https://raw.githubusercontent.com/retrychx/retrychx/output/.github/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+  <img src="https://ghchart.rshah.org/retrychx" width="100%" alt="contribution heatmap"/>
+  <img src="https://cdn.jsdelivr.net/gh/retrychx/retrychx@output/.github/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
