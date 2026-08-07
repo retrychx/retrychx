@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="412" viewBox="0 0 760 412" font-family="Menlo, Consolas, 'DejaVu Sans Mono', 'Courier New', monospace">
+  <!-- ═══════════ LANGUAGES | FRONTEND ═══════════ -->
+  <text x="190" y="28" text-anchor="middle" fill="#7dcfff" font-size="14" font-weight="700">LANGUAGES</text>
+  <text x="570" y="28" text-anchor="middle" fill="#7dcfff" font-size="14" font-weight="700">FRONTEND</text>
+
+  <!-- row 1 -->
+  <rect x="133"  y="48" width="114" height="26" rx="6" fill="#3178C6"/>
+  <text x="190" y="66" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">TypeScript</text>
+  <rect x="532.5" y="48" width="75" height="26" rx="6" fill="#61DAFB"/>
+  <text x="570" y="66" text-anchor="middle" fill="#161b22" font-size="13" font-weight="600">React</text>
+
+  <!-- row 2 -->
+  <rect x="133"  y="80" width="114" height="26" rx="6" fill="#F7DF1E"/>
+  <text x="190" y="98" text-anchor="middle" fill="#161b22" font-size="13" font-weight="600">JavaScript</text>
+  <rect x="540.5" y="80" width="59" height="26" rx="6" fill="#4FC08D"/>
+  <text x="570" y="98" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Vue</text>
+
+  <!-- row 3 -->
+  <rect x="152.5" y="112" width="75" height="26" rx="6" fill="#E34F26"/>
+  <text x="190" y="130" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">HTML5</text>
+  <rect x="532.5" y="112" width="75" height="26" rx="6" fill="#FF5D01"/>
+  <text x="570" y="130" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Astro</text>
+
+  <!-- row 4 -->
+  <rect x="156.5" y="144" width="67" height="26" rx="6" fill="#1572B6"/>
+  <text x="190" y="162" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">CSS3</text>
+  <rect x="521" y="144" width="98" height="26" rx="6" fill="#06B6D4"/>
+  <text x="570" y="162" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Tailwind</text>
+
+  <!-- row 5 -->
+  <rect x="536.5" y="176" width="67" height="26" rx="6" fill="#646CFF"/>
+  <text x="570" y="194" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Vite</text>
+
+  <!-- ═══════════ divider ═══════════ -->
+  <line x1="40" y1="212" x2="720" y2="212" stroke="#30363d" stroke-width="1"/>
+
+  <!-- ═══════════ BACKEND | PLATFORMS ═══════════ -->
+  <text x="190" y="240" text-anchor="middle" fill="#7dcfff" font-size="14" font-weight="700">BACKEND</text>
+  <text x="570" y="240" text-anchor="middle" fill="#7dcfff" font-size="14" font-weight="700">PLATFORMS</text>
+
+  <!-- row 1 -->
+  <rect x="144.5" y="260" width="91" height="26" rx="6" fill="#339933"/>
+  <text x="190" y="278" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Node.js</text>
+  <rect x="489.5" y="260" width="161" height="26" rx="6" fill="#4285F4"/>
+  <text x="570" y="278" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Chrome Extension</text>
+
+  <!-- row 2 -->
+  <rect x="148.5" y="292" width="83" height="26" rx="6" fill="#2496ED"/>
+  <text x="190" y="310" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Docker</text>
+  <rect x="540.5" y="292" width="59" height="26" rx="6" fill="#5A0FC8"/>
+  <text x="570" y="310" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">PWA</text>
+
+  <!-- row 3 -->
+  <rect x="160.5" y="324" width="59" height="26" rx="6" fill="#F05032"/>
+  <text x="190" y="342" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">Git</text>
+
+  <!-- row 4 -->
+  <rect x="117.5" y="356" width="145" height="26" rx="6" fill="#2088FF"/>
+  <text x="190" y="374" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">GitHub Actions</text>
+</svg>
